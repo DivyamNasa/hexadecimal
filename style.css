@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(0, 183, 255);
+    background-color:#fbff00
+}
+
+.div1{
+    background-color: #1898;
+    display: flex;
+    justify-content: space-between
+}
+    
+.div2{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
